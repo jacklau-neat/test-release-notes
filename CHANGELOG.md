@@ -1,6 +1,12 @@
 # Changelog
 
+## 0.0.5 (28/05/2018)
+- [update generate changelog script](https://github.com/jacklau-neat/test-release-notes/commit/2a19abf8a039d2f13eb81013bd3a0b7b33ca9b7f) - @Jack Lau
+
+---
+
 ## 0.0.4 (28/05/2018)
+- [Update CHANGELOG](https://github.com/jacklau-neat/test-release-notes/commit/1dce8763f3fc132e99c1415d0f3d34bc3372cb10) - @Jack Lau
 - [update generate changelog script](https://github.com/jacklau-neat/test-release-notes/commit/48172f838666eb4b5f9daa2d67a8bf804b65455f) - @Jack Lau
 
 ---

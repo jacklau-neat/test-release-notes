@@ -1,0 +1,7 @@
+---
+  dataSource: "commits"
+  prefix: ""
+  includeMessages: "commits"
+  ignoreCommitsWith: 
+    - "wip"
+  changelogFilename: "CHANGELOG.md"

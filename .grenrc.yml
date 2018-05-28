@@ -3,5 +3,6 @@
   prefix: ""
   includeMessages: "commits"
   ignoreCommitsWith:
-    - "wip,CHANGELOG"
+    - "wip"
+    - "CHANGELOG"
   changelogFilename: "CHANGELOG.md"

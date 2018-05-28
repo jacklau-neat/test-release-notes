@@ -1,6 +1,12 @@
 # Changelog
 
+## 0.0.6 (28/05/2018)
+- [update ignore commits wording](https://github.com/jacklau-neat/test-release-notes/commit/0511a9e7e567042a0d3f22dcc785b7b69992602d) - @Jack Lau
+
+---
+
 ## 0.0.5 (28/05/2018)
+- [Update CHANGELOG, Release 0.0.5](https://github.com/jacklau-neat/test-release-notes/commit/3333b7ab0963dbb4426c1f38dff93063b8a17e2e) - @Jack Lau
 - [update generate changelog script](https://github.com/jacklau-neat/test-release-notes/commit/2a19abf8a039d2f13eb81013bd3a0b7b33ca9b7f) - @Jack Lau
 
 ---

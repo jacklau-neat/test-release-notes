@@ -24,3 +24,4 @@ git commit -m "Update CHANGELOG, Release $TAG_VER"
 git push
 
 git_tag
+gren release --tags=$TAG_VER

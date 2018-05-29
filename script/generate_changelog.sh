@@ -8,7 +8,7 @@ gren changelog --generate --override --tags=all
 git checkout -B changelog
 git add CHANGELOG.md
 git commit -m "Update CHANGELOG for $TAG_VER"
-git push
+git push -u origin changelog
 
 # Craete pull request to merge the changelog into master
 hub pull-request -m "Update CHANGELOG for $TAG_VER" -b master

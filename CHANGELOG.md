@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.1.2 (29/05/2018)
+- [no message](https://github.com/jacklau-neat/test-release-notes/commit/467008e197f6c6ba7a2f263cfdf5e4b893458ed1) - @Jack Lau
+
+---
+
+## 0.1.1 (29/05/2018)
+- [no message](https://github.com/jacklau-neat/test-release-notes/commit/c68de403afa350eb159b80b4e30bc64ba098c13f) - @Jack Lau
+- [add file2](https://github.com/jacklau-neat/test-release-notes/commit/70c4903949351209070d46f66ac5cac331f31847) - @Jack Lau
+
+---
+
 ## 0.0.8 (28/05/2018)
 - [fix ignore wording](https://github.com/jacklau-neat/test-release-notes/commit/4ee4ddcb6f4b4d6b38af70b0cd9a440a617d60d9) - @Jack Lau
 

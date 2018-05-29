@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3 (29/05/2018)
+- [add file3.rb](https://github.com/jacklau-neat/test-release-notes/commit/60fedebc4adaea9bd8332752ee4bd4fbc2770de8) - @Jack Lau
+
+---
+
 ## 0.1.2 (29/05/2018)
 - [no message](https://github.com/jacklau-neat/test-release-notes/commit/467008e197f6c6ba7a2f263cfdf5e4b893458ed1) - @Jack Lau
 

@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.5 (08/06/2018)
+- [add file5.rb](https://github.com/jacklau-neat/test-release-notes/commit/6302e5a939bfde399108805523f0b87fe7ea113e) - @Jack Lau
+- [add file4](https://github.com/jacklau-neat/test-release-notes/commit/93d0f147ead039510eb898b3adeee9f15fb6c461) - @Jack Lau
+- [fix script](https://github.com/jacklau-neat/test-release-notes/commit/f6adbecc6ea9ece7926dc2bd1a1aee4bbf5592de) - @Jack Lau
+- [add CL2](https://github.com/jacklau-neat/test-release-notes/commit/c52be4c98f89edbd18e3b2cf10c203c3999fc8fb) - @Jack Lau
+
+---
+
 ## 0.1.3 (29/05/2018)
 - [add file3.rb](https://github.com/jacklau-neat/test-release-notes/commit/60fedebc4adaea9bd8332752ee4bd4fbc2770de8) - @Jack Lau
 

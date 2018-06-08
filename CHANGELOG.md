@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.0 (08/06/2018)
+- [fix ch](https://github.com/jacklau-neat/test-release-notes/commit/4e5e5a98018041bfae4e7c8808d389fab25c01a3) - @Jack Lau
+
+---
+
+## 0.3.1 (08/06/2018)
+- [add 154](https://github.com/jacklau-neat/test-release-notes/commit/9ea89e73ed2affa53c4cda13a906fde651cbc1a7) - @Jack Lau
+- [add 13](https://github.com/jacklau-neat/test-release-notes/commit/cc8038c7b3a11998b400757439144d64fe9aaac8) - @Jack Lau
+
+---
+
 ## 0.3.0 (08/06/2018)
 - [fix it](https://github.com/jacklau-neat/test-release-notes/commit/dcb5d2459cc13c97847e24bffe00d365b2ae95b4) - @Jack Lau
 

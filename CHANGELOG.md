@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.8 (08/06/2018)
+
+
+---
+
 ## 0.1.5 (08/06/2018)
 - [add file5.rb](https://github.com/jacklau-neat/test-release-notes/commit/6302e5a939bfde399108805523f0b87fe7ea113e) - @Jack Lau
 - [add file4](https://github.com/jacklau-neat/test-release-notes/commit/93d0f147ead039510eb898b3adeee9f15fb6c461) - @Jack Lau

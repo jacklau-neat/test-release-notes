@@ -5,7 +5,7 @@ TAG_VER=$1
 gren changelog --generate --override --tags=all
 
 # Since master is a protected branch, it commit to changelog branch and create a pull request
-git branch -D changelog
+git branch -D -r changelog
 git checkout -B changelog
 git add CHANGELOG.md
 git commit -m "Update CHANGELOG for $TAG_VER"

@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.3.0 (08/06/2018)
+- [fix it](https://github.com/jacklau-neat/test-release-notes/commit/dcb5d2459cc13c97847e24bffe00d365b2ae95b4) - @Jack Lau
+
+---
+
+## 0.1.4 (08/06/2018)
+- [remove remote branch as well](https://github.com/jacklau-neat/test-release-notes/commit/ffbb4693b7c857b36dbafa0a803b8719f4f150ea) - @Jack Lau
+
+---
+
+## 0.2.1 (08/06/2018)
+
+
+---
+
+## 0.2.0 (08/06/2018)
+- [add file 11](https://github.com/jacklau-neat/test-release-notes/commit/ea7e3a58c87e89a591aba488a8c52d8a8b96104e) - @Jack Lau
+- [add file 10](https://github.com/jacklau-neat/test-release-notes/commit/784f3cd318bec32cedc9a4f8b02c3c1fdb1b1679) - @Jack Lau
+
+---
+
+## 0.1.8 (08/06/2018)
+
+
+---
+
 ## 0.1.5 (08/06/2018)
 - [add file5.rb](https://github.com/jacklau-neat/test-release-notes/commit/6302e5a939bfde399108805523f0b87fe7ea113e) - @Jack Lau
 - [add file4](https://github.com/jacklau-neat/test-release-notes/commit/93d0f147ead039510eb898b3adeee9f15fb6c461) - @Jack Lau

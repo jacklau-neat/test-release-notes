@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.0 (11/06/2018)
+- [file00.rb](https://github.com/jacklau-neat/test-release-notes/commit/09ee8db9c9178d758be2b993430c9ef0cdff624c) - @Jack Lau
+
+---
+
 ## 0.3.0 (08/06/2018)
 - [fix it](https://github.com/jacklau-neat/test-release-notes/commit/dcb5d2459cc13c97847e24bffe00d365b2ae95b4) - @Jack Lau
 
